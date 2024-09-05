@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "backend_frontend": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7129",
+      "launchBrowser": false
+    }
+  }
+}
